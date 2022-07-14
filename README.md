@@ -1,2 +1,3 @@
 # project-uma-responsive
-uma webside
+uma website
+just HTML and CSS at this time
